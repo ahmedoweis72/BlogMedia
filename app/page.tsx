@@ -25,7 +25,7 @@ export default async function Home() {
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-12">
           <h1 className="text-4xl font-extrabold text-gray-900 sm:text-5xl md:text-6xl">
-            Super<span className="text-blue-600">blog</span>
+            Blog<span className="text-blue-600">Media</span>
           </h1>
           <p className="mt-3 text-xl text-gray-500 sm:mt-4">
             Share your thoughts with the world
